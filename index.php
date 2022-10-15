@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Santose Naval and Babu Lal
+<div id="center-set"> - Bapuji Engineering and Technology
 <div id="signup">
 <div id="signup-st">
 <div align="center">
