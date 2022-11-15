@@ -51,7 +51,7 @@ while($rows=mysqli_fetch_array($result)){
 <td class="tl-4"><?php echo $rows['address']; ?></td>
 </tr>
 </table>
-<div id="reg-bottom" class="btmrg">Copyright &copy; 2022 Fresherprofiles.com</div>
+<div id="reg-bottom" class="btmrg">Copyrights &copy; 2022 Fresherprofiles.com</div>
 </form>
 </div>
 </div>
