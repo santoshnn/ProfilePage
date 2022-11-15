@@ -11,16 +11,12 @@
  <nav>
   <ul>
    <li><a href="https://FresherProfiles.com">Fresherprofiles</a></li>
-   <li><a href="https://fresherprofiles.com/web/student">Profile Builder Demo</a></li>
+   <li><a href="https://fresherprofiles.com/web/student">Profile Builder</a></li>
   </ul>
  </nav>
 </header>
 <div id="center">
-<<<<<<< HEAD
 <div id="center-set"> - Bapuji Engineering and Technology
-=======
-<div id="center-set"> - BDT Engineering and Technology
->>>>>>> b1a773164b1784a348aa826d166c2809183b1da2
 <div id="signup">
 <div id="signup-st">
 <div align="center">
