@@ -32,7 +32,7 @@ if ($remarks=='failed') {
 echo ' <div id="reg-head-fail" class="headrg">Registration Failed!, Username exists</div> ';
 }
 if ($remarks=='error') {
-echo ' <div id="reg-head-fail" class="headrg">Registration Failed! <br> Error: '.$_GET['value'].' </div> ';
+echo ' <div id="reg-head-fail" class="headrg">Registration Faileeed! <br> Error: '.$_GET['value'].' </div> ';
 }
 ?>
 </div>
